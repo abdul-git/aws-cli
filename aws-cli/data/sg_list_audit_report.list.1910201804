@@ -1,0 +1,212 @@
+ ----Region is ap-south-1-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-995ab2f0 |  default    |
+ ----Region is eu-west-3-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-9137e3f8 |  default    |
+ ----Region is eu-west-2-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-3d436255 |  ssh-only   |
+|  sg-ee1acd87 |  default    |
+ ----Region is eu-west-1-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-25406041 |  default    |
+ ----Region is ap-northeast-2-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-1f583876 |  default    |
+ ----Region is ap-northeast-1-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-c477bca0 |  default    |
+ ----Region is sa-east-1-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-fa2ac89e |  default    |
+ ----Region is ca-central-1-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-fa748093 |  default    |
+ ----Region is ap-southeast-1-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-38a9cb5c |  default    |
+|  sg-f431dd92 |  default    |
+ ----Region is ap-southeast-2-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-02a82166 |  default    |
+ ----Region is eu-central-1-----
+------------------------------
++--------------+-------------+
++--------------+-------------+
++--------------+-------------+
+|   DescribeSecurityGroups   |
+|    GroupId   |  GroupName  |
+|  sg-9a0130f3 |  default    |
+ ----Region is us-east-1-----
+---------------------------------------------------------------------------------
++-----------------------+-------------------------------------------------------+
++-----------------------+-------------------------------------------------------+
++-----------------------+-------------------------------------------------------+
+|                            DescribeSecurityGroups                             |
+|        GroupId        |                       GroupName                       |
+|  sg-03ebbf7f8aa469850 |  rds-launch-wizard-7                                  |
+|  sg-048ea70c77f9f39a6 |  launch-wizard-4                                      |
+|  sg-04f20b6a728a77d5c |  rds-launch-wizard-6                                  |
+|  sg-054a3428856348404 |  default                                              |
+|  sg-0604808a914761eec |  SinTestPubSG                                         |
+|  sg-061405b23fca553bd |  AutoScaling-Security-Group-1                         |
+|  sg-06d0e675323191555 |  rds-launch-wizard-5                                  |
+|  sg-090a60232dcf24bf2 |  SinTestPrivSG                                        |
+|  sg-094cc9cb296d61359 |  launch-wizard-5                                      |
+|  sg-0a1b94e69d73b3896 |  launch-wizard-2                                      |
+|  sg-0a7ac8c7b0101697b |  sgaeg-rds-database-sg                                |
+|  sg-0a86a790dd412ae1d |  rds-launch-wizard-4                                  |
+|  sg-0cc36edfa7cb650c2 |  rds-launch-wizard-3                                  |
+|  sg-0f54a677          |  AEG_AppServer_SG                                     |
+|  sg-1609046f          |  default                                              |
+|  sg-1f708267          |  NAT_SG                                               |
+|  sg-20107e6b          |  SSH-RedShift-EMR                                     |
+|  sg-3482134c          |  OpenVPN Access Server -HVM--2-0-10--AutogenByAWSMP-  |
+|  sg-42537b3a          |  AEG_Web_DMZ_SG                                       |
+|  sg-4a5ba932          |  AEG_Test_SG                                          |
+|  sg-5e960726          |  OpenVPN Access Server -HVM--2-0-24-AutogenByAWSMP-   |
+|  sg-62323e2a          |  ElasticMapReduce-master                              |
+|  sg-759a5d0d          |  launch-wizard-1                                      |
+|  sg-789dd900          |  rds-launch-wizard                                    |
+|  sg-7d2bd905          |  default                                              |
+|  sg-7ded6b34          |  rds-launch-wizard-1                                  |
+|  sg-851a7dce          |  rds-launch-wizard-2                                  |
+|  sg-889e5ff3          |  AEG_Public_SSH_RDP                                   |
+|  sg-8bcbc7c3          |  ElasticMapReduce-slave                               |
+|  sg-a18e45d9          |  AEG_DL_SG                                            |
+|  sg-a25147de          |  ping_sg_default                                      |
+|  sg-b73d56cb          |  launch-wizard-3                                      |
+|  sg-c8f856bf          |  default                                              |
+|  sg-cb4229b3          |  d-90673fe8c0_workspacesMembers                       |
+|  sg-d24d26aa          |  default                                              |
+|  sg-e0fd0098          |  AEG_DB_SG                                            |
+ ----Region is us-east-2-----
+------------------------------------------------------------------------------
++-----------------------+----------------------------------------------------+
++-----------------------+----------------------------------------------------+
++-----------------------+----------------------------------------------------+
+|                           DescribeSecurityGroups                           |
+|        GroupId        |                     GroupName                      |
+|  sg-001f9a2012c035d1e |  default                                           |
+|  sg-03aaf36a          |  Private-SG-access                                 |
+|  sg-14672e7d          |  default                                           |
+|  sg-16b1c97d          |  Allow-ICMP-peer                                   |
+|  sg-1e662f77          |  ohioVPCB-Public_SG                                |
+|  sg-28662f41          |  default                                           |
+|  sg-28f19a41          |  rds-launch-wizard                                 |
+|  sg-2f672e46          |  ohioVPCA-public_SG                                |
+|  sg-345e315d          |  default_elb_1292d7bf-315a-3cbb-a889-d8ab4b7b0bb3  |
+|  sg-3bc95852          |  launch-wizard-1                                   |
+|  sg-4dcba724          |  myWEBSG                                           |
+|  sg-51842e39          |  Oracle Enterprise Linux 7.3-v1.1-AutogenByAWSMP-  |
+|  sg-676eac0e          |  default                                           |
+|  sg-68bdc503          |  default                                           |
+|  sg-700b801b          |  ohio-vpcA-efs                                     |
+|  sg-958fc9fc          |  MyPrivateSG                                       |
+|  sg-a656ddcd          |  public-rt-nonat                                   |
+|  sg-adbc37c6          |  replication-SG-access                             |
+|  sg-dfe6deb4          |  rds-launch-wizard-2                               |
+|  sg-e48e4e8f          |  rds-launch-wizard-1                               |
+|  sg-eecf0985          |  launch-wizard-2                                   |
+|  sg-efbdc584          |  Public-SG-in                                      |
+ ----Region is us-west-1-----
+-----------------------------------------------------------------------------------------
++-------------+-------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------+
+|                                DescribeSecurityGroups                                 |
+|   GroupId   |                                GroupName                                |
+|  sg-05cc0461|  Private_NAT_SG                                                         |
+|  sg-1d773d64|  launch-wizard-2                                                        |
+|  sg-24ef2340|  default                                                                |
+|  sg-2c19b248|  rds-launch-wizard                                                      |
+|  sg-35e97c53|  Red Hat Enterprise Linux (RHEL) 7.2 (HVM)-7.2_HVM_GA-AutogenByAWSMP-   |
+|  sg-4402fa22|  default                                                                |
+|  sg-45773d3c|  default                                                                |
+|  sg-4dcc0429|  Private_SG - USWest1                                                   |
+|  sg-6aef230e|  default                                                                |
+|  sg-7dcc0419|  Public_SG - USWest1                                                    |
+|  sg-9323e7f7|  launch-wizard-1                                                        |
+|  sg-b53b33d0|  default                                                                |
+|  sg-d7a60db3|  USWest2-Public_SG                                                      |
+ ----Region is us-west-2-----
+-----------------------------------------------------------------------------------------
++-------------+-------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------+
+|                                DescribeSecurityGroups                                 |
+|   GroupId   |                                GroupName                                |
+|  sg-0552a278|  Red Hat Enterprise Linux (RHEL) 7.2 (HVM)-7.2_HVM_GA-AutogenByAWSMP-   |
+|  sg-0be2c47a|  redShiftDemoSG                                                         |
+|  sg-1b659662|  Auth_SG                                                                |
+|  sg-34be2553|  default                                                                |
+|  sg-378bc047|  launch-wizard-3                                                        |
+|  sg-44ab103d|  launch-wizard-1                                                        |
+|  sg-4a774533|  ElasticMapReduce-master                                                |
+|  sg-4bbc272c|  Data_Lake_SG                                                           |
+|  sg-4c774535|  ElasticMapReduce-slave                                                 |
+|  sg-65a1911e|  rds-launch-wizard                                                      |
+|  sg-6ad11e0d|  default                                                                |
+|  sg-6c629a11|  launch-wizard-8                                                        |
+|  sg-7044bd0d|  Private-SG                                                             |
+|  sg-81bd26e6|  NAT_SG                                                                 |
+|  sg-8b24f4f3|  ElasticMapReduce-Master-Private                                        |
+|  sg-8c24f4f4|  ElasticMapReduce-Slave-Private                                         |
+|  sg-8d24f4f5|  ElasticMapReduce-ServiceAccess                                         |
+|  sg-a18cfad1|  launch-wizard-2                                                        |
+|  sg-a267aedb|  block_internet-access                                                  |
+|  sg-b285fccf|  Kafka powered by Bitnami-0-11-0-0-0 on Ubuntu 14-04-AutogenByAWSMP-    |
+|  sg-bdb840c0|  Public-SG                                                              |
+|  sg-d49e10ad|  Spark_Test_SG                                                          |
+|  sg-de4cb5a3|  default                                                                |

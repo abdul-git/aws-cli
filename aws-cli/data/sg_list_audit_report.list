@@ -1,0 +1,261 @@
+ 
+ 
+
+ ----Region is ap-south-1-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-995ab2f0|  default    |  vpc-4d2ec324  |
+ 
+ 
+
+ ----Region is eu-west-3-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-9137e3f8|  default    |  vpc-a856a9c1  |
+ 
+ 
+
+ ----Region is eu-west-2-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-3d436255|  ssh-only   |  vpc-226fab4b  |
+|  sg-ee1acd87|  default    |  vpc-226fab4b  |
+ 
+ 
+
+ ----Region is eu-west-1-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-25406041|  default    |  vpc-0a81bd6f  |
+ 
+ 
+
+ ----Region is ap-northeast-2-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-1f583876|  default    |  vpc-e8289d81  |
+ 
+ 
+
+ ----Region is ap-northeast-1-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-c477bca0|  default    |  vpc-a1cb8dc4  |
+ 
+ 
+
+ ----Region is sa-east-1-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-fa2ac89e|  default    |  vpc-a07b67c5  |
+ 
+ 
+
+ ----Region is ca-central-1-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-fa748093|  default    |  vpc-55e50c3c  |
+ 
+ 
+
+ ----Region is ap-southeast-1-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-38a9cb5c|  default    |  vpc-ed2a2188  |
+|  sg-f431dd92|  default    |  vpc-27104c43  |
+ 
+ 
+
+ ----Region is ap-southeast-2-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-02a82166|  default    |  vpc-e085a885  |
+ 
+ 
+
+ ----Region is eu-central-1-----
+ 
+
+
+----------------------------------------------
++-------------+-------------+----------------+
++-------------+-------------+----------------+
++-------------+-------------+----------------+
+|           DescribeSecurityGroups           |
+|   GroupId   |  GroupName  |     VpcId      |
+|  sg-9a0130f3|  default    |  vpc-b3dfaada  |
+ 
+ 
+
+ ----Region is us-east-1-----
+ 
+
+
+-------------------------------------------------------------------------------------
++----------------------+----------------------------------+-------------------------+
++----------------------+----------------------------------+-------------------------+
++----------------------+----------------------------------+-------------------------+
+|                              DescribeSecurityGroups                               |
+|        GroupId       |            GroupName             |          VpcId          |
+|  sg-054a3428856348404|  default                         |  vpc-0b3e927b58525e83e  |
+|  sg-0604808a914761eec|  SinTestPubSG                    |  vpc-0b3e927b58525e83e  |
+|  sg-090a60232dcf24bf2|  SinTestPrivSG                   |  vpc-0b3e927b58525e83e  |
+|  sg-0a7ac8c7b0101697b|  sgaeg-rds-database-sg           |  vpc-9a531dfe           |
+|  sg-0f54a677         |  AEG_AppServer_SG                |  vpc-70085a14           |
+|  sg-1609046f         |  default                         |  vpc-9a531dfe           |
+|  sg-1f708267         |  NAT_SG                          |  vpc-70085a14           |
+|  sg-20107e6b         |  SSH-RedShift-EMR                |  vpc-9a531dfe           |
+|  sg-42537b3a         |  AEG_Web_DMZ_SG                  |  vpc-9a531dfe           |
+|  sg-4a5ba932         |  AEG_Test_SG                     |  vpc-70085a14           |
+|  sg-62323e2a         |  ElasticMapReduce-master         |  vpc-9a531dfe           |
+|  sg-7d2bd905         |  default                         |  vpc-70085a14           |
+|  sg-889e5ff3         |  AEG_Public_SSH_RDP              |  vpc-70085a14           |
+|  sg-8bcbc7c3         |  ElasticMapReduce-slave          |  vpc-9a531dfe           |
+|  sg-a18e45d9         |  AEG_DL_SG                       |  vpc-70085a14           |
+|  sg-c8f856bf         |  default                         |  vpc-5ee70725           |
+|  sg-cb4229b3         |  d-90673fe8c0_workspacesMembers  |  vpc-bf6361db           |
+|  sg-d24d26aa         |  default                         |  vpc-bf6361db           |
+|  sg-e0fd0098         |  AEG_DB_SG                       |  vpc-70085a14           |
+ 
+ 
+
+ ----Region is us-east-2-----
+ 
+
+
+-------------------------------------------------------------------------
++----------------------+----------------------+-------------------------+
++----------------------+----------------------+-------------------------+
++----------------------+----------------------+-------------------------+
+|                        DescribeSecurityGroups                         |
+|        GroupId       |      GroupName       |          VpcId          |
+|  sg-001f9a2012c035d1e|  default             |  vpc-0e7bb025945e7d303  |
+|  sg-14672e7d         |  default             |  vpc-963ab1ff           |
+|  sg-16b1c97d         |  Allow-ICMP-peer     |  vpc-d37bf0bb           |
+|  sg-1e662f77         |  ohioVPCB-Public_SG  |  vpc-963ab1ff           |
+|  sg-28662f41         |  default             |  vpc-6c24af05           |
+|  sg-2f672e46         |  ohioVPCA-public_SG  |  vpc-6c24af05           |
+|  sg-676eac0e         |  default             |  vpc-bb0af5d2           |
+|  sg-68bdc503         |  default             |  vpc-d37bf0bb           |
+|  sg-700b801b         |  ohio-vpcA-efs       |  vpc-6c24af05           |
+|  sg-958fc9fc         |  MyPrivateSG         |  vpc-bb0af5d2           |
+ 
+ 
+
+ ----Region is us-west-1-----
+ 
+
+
+---------------------------------------------------------------------------------------------------------
++-------------+------------------------------------------------------------------------+----------------+
++-------------+------------------------------------------------------------------------+----------------+
++-------------+------------------------------------------------------------------------+----------------+
+|                                        DescribeSecurityGroups                                         |
+|   GroupId   |                               GroupName                                |     VpcId      |
+|  sg-05cc0461|  Private_NAT_SG                                                        |  vpc-8b7430ee  |
+|  sg-24ef2340|  default                                                               |  vpc-63753106  |
+|  sg-35e97c53|  Red Hat Enterprise Linux (RHEL) 7.2 (HVM)-7.2_HVM_GA-AutogenByAWSMP-  |  vpc-6766fd02  |
+|  sg-4402fa22|  default                                                               |  vpc-8d88e2e9  |
+|  sg-45773d3c|  default                                                               |  vpc-d7a622b0  |
+|  sg-4dcc0429|  Private_SG - USWest1                                                  |  vpc-8b7430ee  |
+|  sg-6aef230e|  default                                                               |  vpc-8b7430ee  |
+|  sg-7dcc0419|  Public_SG - USWest1                                                   |  vpc-8b7430ee  |
+|  sg-b53b33d0|  default                                                               |  vpc-6766fd02  |
+|  sg-d7a60db3|  USWest2-Public_SG                                                     |  vpc-63753106  |
+ 
+ 
+
+ ----Region is us-west-2-----
+ 
+
+
+--------------------------------------------------------------------------------------------------------
++-------------+-----------------------------------------------------------------------+----------------+
++-------------+-----------------------------------------------------------------------+----------------+
++-------------+-----------------------------------------------------------------------+----------------+
+|                                        DescribeSecurityGroups                                        |
+|   GroupId   |                               GroupName                               |     VpcId      |
+|  sg-1b659662|  Auth_SG                                                              |  vpc-6e5ba00a  |
+|  sg-34be2553|  default                                                              |  vpc-6e5ba00a  |
+|  sg-4a774533|  ElasticMapReduce-master                                              |  vpc-88372aed  |
+|  sg-4bbc272c|  Data_Lake_SG                                                         |  vpc-6e5ba00a  |
+|  sg-4c774535|  ElasticMapReduce-slave                                               |  vpc-88372aed  |
+|  sg-6ad11e0d|  default                                                              |  vpc-88372aed  |
+|  sg-81bd26e6|  NAT_SG                                                               |  vpc-6e5ba00a  |
+|  sg-8b24f4f3|  ElasticMapReduce-Master-Private                                      |  vpc-6e5ba00a  |
+|  sg-8c24f4f4|  ElasticMapReduce-Slave-Private                                       |  vpc-6e5ba00a  |
+|  sg-8d24f4f5|  ElasticMapReduce-ServiceAccess                                       |  vpc-6e5ba00a  |
+|  sg-a267aedb|  block_internet-access                                                |  vpc-6e5ba00a  |
+|  sg-b285fccf|  Kafka powered by Bitnami-0-11-0-0-0 on Ubuntu 14-04-AutogenByAWSMP-  |  vpc-88372aed  |
+|  sg-d49e10ad|  Spark_Test_SG                                                        |  vpc-6e5ba00a  |
+|  sg-de4cb5a3|  default                                                              |  vpc-3e4e2358  |

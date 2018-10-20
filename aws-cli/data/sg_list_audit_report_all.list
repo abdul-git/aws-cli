@@ -1,0 +1,14 @@
+sg-1b659662	Auth_SG
+sg-34be2553	default
+sg-4a774533	ElasticMapReduce-master
+sg-4bbc272c	Data_Lake_SG
+sg-4c774535	ElasticMapReduce-slave
+sg-6ad11e0d	default
+sg-81bd26e6	NAT_SG
+sg-8b24f4f3	ElasticMapReduce-Master-Private
+sg-8c24f4f4	ElasticMapReduce-Slave-Private
+sg-8d24f4f5	ElasticMapReduce-ServiceAccess
+sg-a267aedb	block_internet-access
+sg-b285fccf	Kafka powered by Bitnami-0-11-0-0-0 on Ubuntu 14-04-AutogenByAWSMP-
+sg-d49e10ad	Spark_Test_SG
+sg-de4cb5a3	default

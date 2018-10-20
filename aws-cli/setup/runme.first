@@ -1,0 +1,12 @@
+#!/bin/bash
+
+## setup aws cli
+
+echo "Setup AWS CLI if config file is not found ---  [ execute: aws configure  ] on shell prompt"
+
+
+echo "Extracting/refreshing region list -- data will be written to file in data directory [filename : region_list] "
+
+aws ec2 describe-regions --query "Regions[].[RegionName]" --output=text > ../data/region_list
+
+

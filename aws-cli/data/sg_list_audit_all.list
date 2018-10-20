@@ -1,0 +1,23 @@
+sg-0552a278	Red Hat Enterprise Linux (RHEL) 7.2 (HVM)-7.2_HVM_GA-AutogenByAWSMP-
+sg-0be2c47a	redShiftDemoSG
+sg-1b659662	Auth_SG
+sg-34be2553	default
+sg-378bc047	launch-wizard-3
+sg-44ab103d	launch-wizard-1
+sg-4a774533	ElasticMapReduce-master
+sg-4bbc272c	Data_Lake_SG
+sg-4c774535	ElasticMapReduce-slave
+sg-65a1911e	rds-launch-wizard
+sg-6ad11e0d	default
+sg-6c629a11	launch-wizard-8
+sg-7044bd0d	Private-SG
+sg-81bd26e6	NAT_SG
+sg-8b24f4f3	ElasticMapReduce-Master-Private
+sg-8c24f4f4	ElasticMapReduce-Slave-Private
+sg-8d24f4f5	ElasticMapReduce-ServiceAccess
+sg-a18cfad1	launch-wizard-2
+sg-a267aedb	block_internet-access
+sg-b285fccf	Kafka powered by Bitnami-0-11-0-0-0 on Ubuntu 14-04-AutogenByAWSMP-
+sg-bdb840c0	Public-SG
+sg-d49e10ad	Spark_Test_SG
+sg-de4cb5a3	default
